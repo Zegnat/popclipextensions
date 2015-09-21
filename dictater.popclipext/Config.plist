@@ -13,6 +13,19 @@
 			<string>Say</string>
 		</dict>
 	</array>
+	<key>Apps</key>
+	<array>
+		<dict>
+			<key>Name</key>
+			<string>Dictater</string>
+			<key>Bundle Identifier</key>
+			<string>com.kyleacarson.Dictater</string>
+			<key>Link</key>
+			<string>https://nosrac.github.io/Dictater/</string>
+			<key>Check Installed</key>
+			<true/>
+		</dict>
+	</array>
 	<key>Extension Description</key>
 	<string>Speak the selected text aloud, using Dictater.</string>
 	<key>Extension Identifier</key>
@@ -20,6 +33,6 @@
 	<key>Extension Name</key>
 	<string>Dictater</string>
 	<key>Version</key>
-	<integer>1</integer>
+	<integer>2</integer>
 </dict>
 </plist>
